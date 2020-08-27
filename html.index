@@ -1,6 +1,6 @@
 <HTML lang="eng">
 <form>
-<label for="strcode"> Structure Code: </label><br>
+<label for="strcode"> Structure Code:</label><br>
 <input type="text" id="strcode" name="strcode"><br>
 <label for="bisf">Business Function:</label><br>
 <input type="text" id="bisf" name="bisf"><br>
@@ -9,11 +9,11 @@
 <label for="level">LEVEL:</label><br>
 <input type="text" id="level" name="level"><br>
 <label for="yexp">Years of experience:</label><br>
-<input type="yexp" id="yexp" name="yexp"><br>
+<input type="text" id="yexp" name="yexp"><br>
 <label for="rank">RANK- AVP/VP/SVP..:</label><br>
-<input type="rank" id="rank" name="rank"><br>
+<input type="text" id="rank" name="rank"><br>
 <label for="edu">Education:</label><br>
-<input type="edu" id="edu" name="edu"><br>
+<input type="text" id="edu" name="edu"><br>
 </form>
 </HTML>
 
